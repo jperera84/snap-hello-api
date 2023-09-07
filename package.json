@@ -1,5 +1,5 @@
 {
-  "name": "snap-hello-api",
+  "name": "jr-node-api",
   "version": "1.0.0",
   "description": "Rest API packed as Snap",
   "main": "app.js",
